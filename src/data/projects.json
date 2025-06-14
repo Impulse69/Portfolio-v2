@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Project One",
+      "description": "A brief description of Project One, highlighting its purpose and key features. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "image": "https://via.placeholder.com/500x281",
+      "liveLink": "#",
+      "repoLink": "#"
+    },
+    {
+      "title": "Project Two",
+      "description": "A brief description of Project Two, highlighting its purpose and key features. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "image": "https://via.placeholder.com/500x281",
+      "liveLink": "#",
+      "repoLink": "#"
+    },
+    {
+      "title": "Project Three",
+      "description": "A brief description of Project Three, highlighting its purpose and key features. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+      "image": "https://via.placeholder.com/500x281",
+      "liveLink": "#",
+      "repoLink": "#"
+    }
+  ] 
